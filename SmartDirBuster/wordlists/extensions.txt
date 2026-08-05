@@ -1,0 +1,10 @@
+php
+html
+txt
+zip
+bak
+old
+json
+xml
+conf
+log
